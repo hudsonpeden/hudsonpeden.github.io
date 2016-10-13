@@ -1,2 +1,3 @@
-# hudsonpeden.github.io
-My personal site.
+#This is my personal portfolio/blog.
+
+Made using Jekyll.

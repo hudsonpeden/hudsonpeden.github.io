@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+<img src="{{ site.baseurl }}/img/headshot_circle_web.png" alt="Hudson Headshot" class="about-headshot-image">
+<h3>Hello, my name is Hudson.</h3>
+I enjoy combining creative with technical.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<div class="about-headshot">
+    <p class="about-headshot-text">I am a passionate individual seeking excellence in media, design, production, and personal relationships. I believe that in order to achieve excellence, you must practice it until it becomes a habit.</p>
+</div>
+
+Want to know more about me or get in touch?
+
+[LinkedIn](http://www.linkedin.com/in/hudsonwpeden)
