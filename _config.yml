@@ -6,14 +6,14 @@ copyright_name: Hudson W. Peden
 description: "Design, Photography, etc."
 baseurl: ""
 url: "http://hwp.io"
- #twitter_username: SBootstrap
+twitter_username: hudsonpeden
 github_username:  hudsonpeden
 #facebook_username:  StartBootstrap
 email_username:  hudsonpeden@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+google_tracking_id: UA-86428808-1
 
 # Build settings
 markdown: kramdown

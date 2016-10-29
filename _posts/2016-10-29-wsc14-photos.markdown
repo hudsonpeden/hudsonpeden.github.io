@@ -1,0 +1,57 @@
+---
+layout:     post
+title:      "2014 Winshape Photos"
+subtitle:   "From my time as a media specialist at Winshape Camps for Boys"
+date:       2016-10-29 12:00:00
+author:     "Hudson Peden"
+header-img: "img/wsc14/wsc14header-2.jpg"
+---
+<p>
+These photos were taken by me for Winshape Camps.
+</p>
+
+<p>Armed with only a Canon SL1, I was challenged to capture striking moments in my first job as a professional photographer.</p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/wsc14/wsc14-2.jpg" alt="wsc14-2">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/wsc14/wsc14-3.jpg" alt="wsc14-3">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/wsc14/wsc14-4.jpg" alt="wsc14-4">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/wsc14/wsc14-5.jpg" alt="wsc14-5">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/wsc14/wsc14-6.jpg" alt="wsc14-6">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/wsc14/wsc14-7.jpg" alt="wsc14-7">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/wsc14/wsc14-8.jpg" alt="wsc14-8">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/wsc14/wsc14-9.jpg" alt="wsc14-9">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/wsc14/wsc14-11.jpg" alt="wsc14-11">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/wsc14/wsc14-12.jpg" alt="wsc14-12">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/wsc14/wsc14-13.jpg" alt="wsc14-13">
+</a>

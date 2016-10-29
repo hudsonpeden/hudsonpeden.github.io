@@ -16,3 +16,5 @@ I enjoy combining creative with technical.
 Want to know more about me or get in touch?
 
 [LinkedIn](http://www.linkedin.com/in/hudsonwpeden)
+
+hudsonpeden@gmail.com
